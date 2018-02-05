@@ -1,0 +1,27 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs basic example snippets",
+  "main": "NonBlock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaycs10/Learn-NodeJs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "akshay kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaycs10/Learn-NodeJs/issues"
+  },
+  "homepage": "https://github.com/akshaycs10/Learn-NodeJs#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2"
+  }
+}
